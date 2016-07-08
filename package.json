@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/heineiuo/react-style/issues"
   },
+  "peerDependencies": {
+    "react": "^0.14.0"
+  },
   "homepage": "https://github.com/heineiuo/react-style#readme"
 }
