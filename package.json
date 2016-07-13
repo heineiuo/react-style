@@ -1,7 +1,7 @@
 {
-  "name": "@heineiuo/react-style",
-  "version": "1.0.0",
-  "description": "",
+  "name": "react-inlinestyle",
+  "version": "0.1.0",
+  "description": "<Style> Component and `Factory` class",
   "main": "factory.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
